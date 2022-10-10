@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Victor!
-- 👀 I’m interested in Web3 and Javascript.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently completing the Zero To Mastery Complete Web Developer course.
 - 💞️ I’m looking to collaborate on something meaningful that also provides mutual value (i.e. give value get value).
 - 📫 How to reach me @realvicandy on Twitter and Instagram.
